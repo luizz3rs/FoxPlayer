@@ -1,0 +1,17 @@
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.csproj.AssemblyReference.cache
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\Interop.WMPLib.dll
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.csproj.ResolveComReference.cache
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.Form1.resources
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.Properties.Resources.resources
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.csproj.GenerateResource.cache
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.csproj.CoreCompileInputs.cache
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\FoxPlayerClassic.exe.config
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\FoxPlayerClassic.exe
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\FoxPlayerClassic.pdb
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\Interop.WMPLib.dll
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.exe
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.pdb
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\bin\Debug\taglib-sharp.dll
+C:\Users\rigby\source\repos\FoxPlayerClassic\FoxPlayerClassic\obj\Debug\FoxPlayerClassic.csproj.CopyComplete
