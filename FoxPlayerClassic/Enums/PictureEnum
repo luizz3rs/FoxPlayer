@@ -1,0 +1,7 @@
+namespace FoxPlayerClassic.Enum
+{
+    public enum PictureEnum
+    {
+        DefaultPicture = 0
+    }
+}
